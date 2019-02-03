@@ -12,4 +12,4 @@ Starter project for the Udacity [VR Developer Nanodegree](http://udacity.com/vr)
 
 ### Directory Structure
 - The Unity project is the child directory of the repository and named according to the associated lesson.
-- The Unity project is 'cleaned' and includes the `Assets` folder, the `ProjectSettings` folder, and the `UnityPackageManager` folder.
+- The Unity project is 'cleaned' and includes the `Assets` folder, the `ProjectSettings` folder, zipped `Build` folder and a `screenshot` file.
